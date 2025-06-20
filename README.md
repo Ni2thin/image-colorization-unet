@@ -27,7 +27,7 @@ Loss = α × MSE + (1-α) × SSIM
 ```
 Where α = 0.5 balances pixel-wise accuracy and structural similarity.
 
-## 📊 Results
+## Results
 
 The model achieves excellent performance:
 - **Low MSE (0.006378)**: Indicates high pixel-wise accuracy
