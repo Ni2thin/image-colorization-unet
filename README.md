@@ -8,10 +8,10 @@ This project implements an end-to-end solution for automatic image colorization 
 
 ##  Performance Metrics
 
-| Metric | Value | Status |
-|--------|-------|--------|
-| **MSE** | 0.006378 | Excellent |
-| **SSIM** | 0.917006 | Excellent |
+| Metric | Value |
+|--------|-------|
+| **MSE** | 0.006378 |
+| **SSIM** | 0.917006 |
 
 ##  Architecture
 
